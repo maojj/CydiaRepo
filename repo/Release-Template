@@ -1,0 +1,17 @@
+Origin: maojj
+
+Label: maojj
+
+Suite: stable
+
+Version: 0.1
+
+Codename: dslk
+
+Architectures: iphoneos-arm
+
+Components: main
+
+Description: Repository of maojj
+
+MD5Sum:
