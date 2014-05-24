@@ -1,0 +1,12 @@
+Package: com.yourcompany.kk
+Version: 0.0.1-9
+Architecture: iphoneos-arm
+Maintainer: maojj
+Installed-Size: 16
+Depends: mobilesubstrate
+Filename: deb//com.yourcompany.kk_0.0.1-9_iphoneos-arm.deb
+Size: 2512
+MD5sum: 1e1f1d1ba99cdc1d45f1d0a5e363227c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+
