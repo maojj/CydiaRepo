@@ -1,0 +1,4 @@
+CydiaRepo
+=========
+
+Cydia Repo template
